@@ -38,8 +38,8 @@ public class MD5CoderTest {
         String data1 = MD5Coder.encodeMD5Hex(str);
         String data2 = MD5Coder.encodeMD5Hex(str);
         System.out.println("原文：\t" + str);
-        System.out.println("MD4Hex-1：\t" + data1);
-        System.out.println("MD4Hex-2：\t" + data2);
+        System.out.println("MD5Hex-1：\t" + data1);
+        System.out.println("MD5Hex-2：\t" + data2);
 
         // 校验
         assertEquals(data1, data2);
