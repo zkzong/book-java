@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * MD消息摘要组件
- * Created by Administrator on 2017/5/15.
+ * Created by Zong on 2017/5/15.
  */
 public abstract class MDCoder {
     /**

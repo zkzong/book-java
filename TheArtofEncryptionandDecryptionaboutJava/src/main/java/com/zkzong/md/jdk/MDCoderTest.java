@@ -8,7 +8,7 @@ import static org.junit.Assert.assertArrayEquals;
 
 /**
  * MD校验
- * Created by Administrator on 2017/5/15.
+ * Created by Zong on 2017/5/15.
  */
 public class MDCoderTest {
     /**
