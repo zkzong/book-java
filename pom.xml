@@ -12,6 +12,7 @@
         <module>TheArtofEncryptionandDecryptionaboutJava</module>
         <module>JavaMulti-threadProgramming</module>
         <module>JavaConcurrencyinPractice</module>
+        <module>Understanding-the-JVM</module>
     </modules>
 
     <!--阿里云私服-->
