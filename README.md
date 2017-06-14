@@ -1,6 +1,5 @@
-# book-java
+# Java读书笔记
 [![Build Status](https://travis-ci.org/zongzhankui/book-java.svg?branch=master)](https://travis-ci.org/zongzhankui/book-java)
-Java读书笔记
 
 ## Java加密与解密的艺术
 
