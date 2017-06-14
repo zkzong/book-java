@@ -1,4 +1,4 @@
-package com.zkzong.ch4.e1;
+package com.zkzong.ch4.reentrantlock;
 
 /**
  * Created by zong on 17-4-16.

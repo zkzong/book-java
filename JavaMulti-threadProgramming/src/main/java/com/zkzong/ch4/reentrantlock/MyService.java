@@ -1,4 +1,4 @@
-package com.zkzong.ch4.e1;
+package com.zkzong.ch4.reentrantlock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
