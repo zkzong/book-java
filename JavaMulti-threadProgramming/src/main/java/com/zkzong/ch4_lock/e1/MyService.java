@@ -1,11 +1,8 @@
-package com.zkzong.ch4.reentrantlock;
+package com.zkzong.ch4_lock.e1;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/**
- * Created by zong on 17-4-16.
- */
 public class MyService {
     private Lock lock = new ReentrantLock();
 

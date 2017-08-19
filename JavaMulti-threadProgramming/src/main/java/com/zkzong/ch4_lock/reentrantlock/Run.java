@@ -1,5 +1,8 @@
-package com.zkzong.ch4.e1;
+package com.zkzong.ch4_lock.reentrantlock;
 
+/**
+ * Created by zong on 17-4-16.
+ */
 public class Run {
     public static void main(String[] args) {
         MyService service = new MyService();

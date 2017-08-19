@@ -1,4 +1,4 @@
-package com.zkzong.ch4.condition;
+package com.zkzong.ch4_lock.condition;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

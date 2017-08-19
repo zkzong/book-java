@@ -1,4 +1,4 @@
-package com.zkzong.ch4.condition.alter_print;
+package com.zkzong.ch4_lock.ReentrantReadWriteLock;
 
 /**
  * Created by Zong on 2017/6/14.
@@ -12,8 +12,6 @@ public class ThreadA extends Thread {
 
     @Override
     public void run() {
-        for (int i = 0; i < Integer.MAX_VALUE; i++) {
-            service.setValue();
-        }
+        service.read();
     }
 }

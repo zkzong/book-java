@@ -1,4 +1,4 @@
-package com.zkzong.ch4.e1;
+package com.zkzong.ch4_lock.e1;
 
 public class MyThread extends Thread {
     private MyService service;

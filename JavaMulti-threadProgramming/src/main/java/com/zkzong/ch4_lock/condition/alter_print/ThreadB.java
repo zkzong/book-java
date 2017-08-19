@@ -1,4 +1,4 @@
-package com.zkzong.ch4.condition.alter_print;
+package com.zkzong.ch4_lock.condition.alter_print;
 
 /**
  * Created by Zong on 2017/6/14.

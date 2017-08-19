@@ -1,18 +1,17 @@
-package com.zkzong.ch4.e2;
+package com.zkzong.ch4_lock.condition;
 
 /**
- * Created by zong on 17-4-16.
+ * Created by Zong on 2017/6/14.
  */
 public class ThreadA extends Thread {
     private MyService service;
 
     public ThreadA(MyService service) {
-        super();
         this.service = service;
     }
 
     @Override
     public void run() {
-        service.methodA();
+        service.await();
     }
 }

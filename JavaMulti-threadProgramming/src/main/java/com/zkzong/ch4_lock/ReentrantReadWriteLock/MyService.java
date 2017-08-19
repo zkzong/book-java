@@ -1,4 +1,4 @@
-package com.zkzong.ch4.ReentrantReadWriteLock;
+package com.zkzong.ch4_lock.ReentrantReadWriteLock;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
